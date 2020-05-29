@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    border: red solid;
+}
+
+canvas {
+    border: black solid;
+    margin: 2em;
+}
+
+video {
+    display: none;
+}
